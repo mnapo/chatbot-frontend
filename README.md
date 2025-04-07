@@ -11,4 +11,4 @@ Front-end sencillo en TypeScript y React para proyecto de ChatBot con IA.
 - [ ] Acoplar a servidor Node de asistente IA
 
 ## :computer: Screenshot :computer:
-![Ventana de Chat con fondo de sushi](https://media.licdn.com/dms/image/v2/D4D22AQFm0zpfl3a6_Q/feedshare-shrink_800/B4DZRmS.YjHIAk-/0/1736883038216?e=1740009600&v=beta&t=05YQzO_xMBrvqpwfSXRXCCmKHTWjH1_M6KmZE0cJ3EE)
+![Ventana de Chat con fondo de sushi](https://media.licdn.com/dms/image/v2/D4D22AQFm0zpfl3a6_Q/feedshare-shrink_1280/B4DZRmS.YjHIAo-/0/1736883038219?e=1746662400&v=beta&t=45DDhX_s6yt4DMVKVsFYohf_426-jwTGNKeWEyvtBSs)
